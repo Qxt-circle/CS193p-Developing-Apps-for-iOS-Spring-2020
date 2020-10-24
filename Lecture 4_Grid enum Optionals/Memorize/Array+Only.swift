@@ -2,7 +2,7 @@
 //  Array+Only.swift
 //  Memorize
 //
-//  Created by 王莹媛 on 2020/10/21.
+//  Created by Qxt_circle on 2020/10/21.
 //
 
 import Foundation
