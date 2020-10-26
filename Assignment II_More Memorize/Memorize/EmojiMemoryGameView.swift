@@ -48,6 +48,7 @@ struct CardView: View {
                 } else {
                     if !card.isMatchUp {
                         RoundedRectangle(cornerRadius: cornerRadius).fill(LinearGradient.init(gradient: Gradient.init(colors: [EmojiMemoryGame.themeChosen.themeColor,Color.white]), startPoint: UnitPoint.topLeading, endPoint: UnitPoint.bottomTrailing))
+                        //Extra 1
                     }
                 }
             }
